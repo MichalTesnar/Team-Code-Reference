@@ -1,7 +1,10 @@
 ### Team-Code-Reference
+Michal Tesnar
+For the course at RUG: Algorithmic Programming Contests
 
 # Topics
 <ul>
+  <li>Math</li>
   <li>Data Structures</li>
     <li>Stack</li>
     <li>Queue</li>
